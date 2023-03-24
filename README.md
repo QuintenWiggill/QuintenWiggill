@@ -1,9 +1,15 @@
 
-## Quinten Wiggill - Software Developer
+# Quinten Wiggill - Software Developer
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+## Some stats
 
 [![Quinten's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuintenWiggill&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Random joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
